@@ -15,6 +15,6 @@
     - '--image'
     - 'gcr.io/$PROJECT_ID/nestjs-blog-api:$COMMIT_SHA'
     - '--region'
-    - 'asia-northeast1'
+    - 'global'
   images:
   - 'gcr.io/$PROJECT_ID/nestjs-blog-api:$COMMIT_SHA'
